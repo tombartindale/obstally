@@ -29,7 +29,7 @@
     <PackageReference Include="NLog" Version="4.7.2" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
     <PackageReference Include="Zeroconf" Version="3.3.16" />
-    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="log4net" Version="2.0.10" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="client_id.json" />
